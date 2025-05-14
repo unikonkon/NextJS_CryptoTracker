@@ -21,7 +21,8 @@ export type CryptoCategory =
   | 'defi'
   | 'value-transfer'
   | 'gamefi'
-  | 'meme';
+  | 'meme'
+  | 'other';
 
 export interface CategoryInfo {
   id: CryptoCategory;

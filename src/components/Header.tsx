@@ -19,7 +19,7 @@ export default function Header({ setSearch }: HeaderProps) {
         <nav className="flex space-x-6">
           <a href="#" className="hover:text-yellow-400 transition-colors">Home</a>
           <a href="#categories" className="hover:text-yellow-400 transition-colors">Categories</a>
-          {/* <a href="#trending" className="hover:text-yellow-400 transition-colors">Trending</a> */}
+          <a href="#all-cryptocurrencies" className="hover:text-yellow-400 transition-colors">All Cryptocurrencies</a>
         </nav>
         
         <div className="mt-4 sm:mt-0 w-full sm:w-64">

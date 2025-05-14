@@ -6,14 +6,7 @@ export default function Hero() {
     <div className="bg-gradient-to-br from-gray-900 to-gray-800 py-16 md:py-24">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center">
-          <h1 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            Track Cryptocurrencies in Real-Time
-          </h1>
-          <p className="text-xl text-gray-300 mb-8">
-            Explore the world of cryptocurrencies across different categories, 
-            with real-time prices and market data.
-          </p>
-          
+ 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">
             <div className="bg-gray-800 p-6 rounded-lg shadow-lg">
               <div className="flex justify-center mb-4">
